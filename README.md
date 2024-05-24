@@ -1,2 +1,2 @@
-#FoCS Series of Exercises | ECE NTUA
+# FoCS Series of Exercises | ECE NTUA
 ### John Polychronopoulos
