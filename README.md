@@ -4,4 +4,4 @@ This repository contains solved exercises and reports for the *Foundation of Com
 
 This repository aims to serve as a helpful resource for students working on Operating Systems coursework. <br>
 
-Feel free to contribute or raise any issues! 😊🎯
+Feel free to contribute or raise any issues!🎯
