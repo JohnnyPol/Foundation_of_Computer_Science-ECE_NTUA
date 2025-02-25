@@ -2,6 +2,6 @@
 ## Overview
 This repository contains solved exercises and reports for the *Foundation of Computer Science* course in the 3rd semester of the ECE-NTUA program. <br>
 
-This repository aims to serve as a helpful resource for students working on Operating Systems coursework. <br>
+This repository aims to serve as a helpful resource for students working on the Foundation of Computer Science coursework. <br>
 
 Feel free to contribute or raise any issues!🎯
